@@ -1,0 +1,857 @@
+2021-08-22 19:20:47,067 : INFO : test_e2e : Welcome to Address Book
+2021-08-22 19:20:47,870 : INFO : test_e2e : Sign in
+2021-08-22 19:20:47,899 : INFO : test_e2e : email : hiyahiya@gmail.com
+2021-08-22 19:20:47,899 : INFO : test_e2e : password : hiyahiyahiya
+2021-08-22 19:20:51,044 : INFO : test_e2e : Sign up
+2021-08-22 19:23:55,135 : INFO : test_e2e : Welcome to Address Book
+2021-08-22 19:23:55,713 : INFO : test_e2e : Sign in
+2021-08-22 19:23:55,731 : INFO : test_e2e : email : hiyahiya@gmail.com
+2021-08-22 19:23:55,731 : INFO : test_e2e : password : hiyahiyahiya
+2021-08-22 19:23:58,823 : INFO : test_e2e : Sign up
+2021-08-22 19:24:30,649 : INFO : test_e2e : Welcome to Address Book
+2021-08-22 19:24:31,120 : INFO : test_e2e : Sign in
+2021-08-22 19:24:31,127 : INFO : test_e2e : email : hiyahiya@gmail.com
+2021-08-22 19:24:31,128 : INFO : test_e2e : password : hiyahiyahiya
+2021-08-22 19:24:34,240 : INFO : test_e2e : Sign up
+2021-08-22 19:25:38,210 : INFO : test_e2e : Welcome to Address Book
+2021-08-22 19:25:38,696 : INFO : test_e2e : Sign in
+2021-08-22 19:25:38,704 : INFO : test_e2e : email : hiyahiya@gmail.com
+2021-08-22 19:25:38,705 : INFO : test_e2e : password : hiyahiyahiya
+2021-08-22 19:25:41,819 : INFO : test_e2e : Sign up
+2021-08-22 19:25:43,128 : INFO : test_e2e : berhasil login
+2021-08-22 19:26:31,674 : INFO : test_e2e : Welcome to Address Book
+2021-08-22 19:26:32,155 : INFO : test_e2e : Sign in
+2021-08-22 19:26:32,166 : INFO : test_e2e : email : hiyahiya@gmail.com
+2021-08-22 19:26:32,167 : INFO : test_e2e : password : hiyahiyahiya
+2021-08-22 19:26:35,293 : INFO : test_e2e : Sign up
+2021-08-22 19:26:36,300 : INFO : test_e2e : berhasil login
+2021-08-22 19:27:16,793 : INFO : test_e2e : Welcome to Address Book
+2021-08-22 19:27:17,328 : INFO : test_e2e : Sign in
+2021-08-22 19:27:17,339 : INFO : test_e2e : email : hiyeshiyes@gmail.com
+2021-08-22 19:27:17,340 : INFO : test_e2e : password : hiyeshiyes
+2021-08-22 19:27:20,482 : INFO : test_e2e : Sign up
+2021-08-22 19:27:21,900 : INFO : test_e2e : berhasil login
+2021-08-22 19:28:25,997 : INFO : test_e2e : Welcome to Address Book
+2021-08-22 19:28:26,643 : INFO : test_e2e : Sign in
+2021-08-22 19:28:26,655 : INFO : test_e2e : email : huewwwewyy@gmail.com
+2021-08-22 19:28:26,657 : INFO : test_e2e : password : huewewwuu
+2021-08-22 19:28:29,798 : INFO : test_e2e : Sign up
+2021-08-22 19:28:31,209 : INFO : test_e2e : berhasil login
+2021-08-22 19:29:02,327 : INFO : test_e2e : email : hayohayo@gmail.com
+2021-08-22 19:29:02,328 : INFO : test_e2e : password : hayohayohayo
+2021-08-22 19:29:05,492 : INFO : test_e2e : Sign up
+2021-08-22 19:29:06,701 : INFO : test_e2e : berhasil login
+2021-08-23 21:44:18,522 : INFO : test_e2e : Welcome to Address Book
+2021-08-23 21:44:19,162 : INFO : test_e2e : Sign in
+2021-08-23 21:44:19,170 : INFO : test_e2e : email : huewwwewyy@gmail.com
+2021-08-23 21:44:19,171 : INFO : test_e2e : password : huewewwuu
+2021-08-23 21:44:22,273 : INFO : test_e2e : Sign up
+2021-08-23 22:04:00,878 : INFO : test_e2e : Welcome to Address Book
+2021-08-23 22:04:01,356 : INFO : test_e2e : Sign in
+2021-08-23 22:04:01,366 : INFO : test_e2e : email : huewwwewyy@gmail.com
+2021-08-23 22:04:01,366 : INFO : test_e2e : password : huewewwuu
+2021-08-23 22:04:04,475 : INFO : test_e2e : Sign up
+2021-08-23 22:04:25,354 : WARNING : test_e2e : Gagal Sign up email : huewwwewyy@gmail.com and password : huewewwuu
+2021-08-23 22:05:23,048 : INFO : test_e2e : Welcome to Address Book
+2021-08-23 22:05:23,796 : INFO : test_e2e : Sign in
+2021-08-23 22:05:23,807 : INFO : test_e2e : email : huewwwewyy@gmail.com
+2021-08-23 22:05:23,808 : INFO : test_e2e : password : huewewwuu
+2021-08-23 22:05:26,933 : INFO : test_e2e : Sign up
+2021-08-23 22:05:47,930 : WARNING : test_e2e : Gagal Sign up email : huewwwewyy@gmail.com and password : huewewwuu
+2021-08-23 22:05:48,498 : INFO : test_e2e : email : hayohayo@gmail.com
+2021-08-23 22:05:48,499 : INFO : test_e2e : password : hayohayohayo
+2021-08-23 22:08:50,612 : INFO : test_e2e : Welcome to Address Book
+2021-08-23 22:08:51,088 : INFO : test_e2e : Sign in
+2021-08-23 22:08:51,095 : INFO : test_e2e : email : huewwwewyy@gmail.com
+2021-08-23 22:08:51,095 : INFO : test_e2e : password : huewewwuu
+2021-08-23 22:08:54,249 : INFO : test_e2e : Sign up
+2021-08-23 22:09:15,220 : WARNING : test_e2e : Gagal Sign up email : huewwwewyy@gmail.com and password : huewewwuu
+2021-08-23 22:09:15,311 : INFO : test_e2e : email : hayohayo@gmail.com
+2021-08-23 22:09:15,312 : INFO : test_e2e : password : hayohayohayo
+2021-08-23 22:09:18,866 : INFO : test_e2e : Sign up
+2021-08-23 22:09:40,349 : WARNING : test_e2e : Gagal Sign up email : hayohayo@gmail.com and password : hayohayohayo
+2021-08-23 22:25:39,807 : INFO : test_e2e : Welcome to Address Book
+2021-08-23 22:25:40,420 : INFO : test_e2e : Sign in Page
+2021-08-23 22:26:45,440 : INFO : test_e2e : Welcome to Address Book
+2021-08-23 22:26:46,408 : INFO : test_e2e : Sign in Page
+2021-08-23 22:26:46,434 : INFO : test_e2e : Sign in Page
+2021-08-23 22:26:46,434 : INFO : test_e2e : email = huewwwewyy1@gmail.com
+2021-08-23 22:26:46,434 : INFO : test_e2e : password = huewewwuu
+2021-08-23 22:27:56,680 : INFO : test_e2e : Welcome to Address Book
+2021-08-23 22:27:57,358 : INFO : test_e2e : Sign in Page
+2021-08-23 22:27:57,397 : INFO : test_e2e : Sign in Page
+2021-08-23 22:27:57,398 : INFO : test_e2e : email = huewwwewyy1@gmail.com
+2021-08-23 22:27:57,398 : INFO : test_e2e : password = huewewwuu
+2021-08-23 22:28:13,219 : WARNING : test_e2e : Gagal Sign in email = huewwwewyy1@gmail.com and password = huewewwuu
+2021-08-23 22:28:13,340 : INFO : test_e2e : Sign in Page
+2021-08-23 22:28:13,340 : INFO : test_e2e : email = hayohayo1@gmail.com
+2021-08-23 22:28:13,340 : INFO : test_e2e : password = hayohayohayo
+2021-08-23 22:28:29,592 : WARNING : test_e2e : Gagal Sign in email = hayohayo1@gmail.com and password = hayohayohayo
+2021-08-23 23:56:39,931 : INFO : test_e2e : Welcome to Address Book
+2021-08-23 23:56:40,643 : INFO : test_e2e : Sign in Page
+2021-08-23 23:56:40,710 : INFO : test_e2e : Sign in Page
+2021-08-23 23:56:40,711 : INFO : test_e2e : email = huewwwewyy1@gmail.com
+2021-08-23 23:56:40,711 : INFO : test_e2e : password = huewewwuu
+2021-08-23 23:56:56,779 : ERROR : test_e2e : Gagal Sign in email = huewwwewyy1@gmail.com and password = huewewwuu
+2021-08-24 00:04:32,736 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:04:33,286 : INFO : test_e2e : Sign in Page
+2021-08-24 00:04:33,310 : INFO : test_e2e : Sign in Page
+2021-08-24 00:04:33,311 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:04:33,311 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:04:39,520 : INFO : test_e2e : Berhasil sign in email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:04:44,525 : ERROR : test_e2e : Gagal Sign in email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:08:20,337 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:08:21,143 : INFO : test_e2e : Sign in Page
+2021-08-24 00:08:21,178 : INFO : test_e2e : Sign in Page
+2021-08-24 00:08:21,178 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:08:21,178 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:08:27,639 : INFO : test_e2e : Berhasil sign in email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:08:32,641 : ERROR : test_e2e : Gagal Sign in email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:11:38,372 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:11:39,070 : INFO : test_e2e : Sign in Page
+2021-08-24 00:11:39,095 : INFO : test_e2e : Sign in Page
+2021-08-24 00:11:39,096 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:11:39,096 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:11:45,523 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:11:50,527 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:13:51,879 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:13:52,579 : INFO : test_e2e : Sign in Page
+2021-08-24 00:13:52,619 : INFO : test_e2e : Sign in Page
+2021-08-24 00:13:52,620 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:13:52,620 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:13:59,019 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:14:04,021 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:16:48,822 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:16:49,544 : INFO : test_e2e : Sign in Page
+2021-08-24 00:16:49,573 : INFO : test_e2e : Sign in Page
+2021-08-24 00:16:49,574 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:16:49,574 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:16:56,073 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:17:01,077 : INFO : test_e2e : Enter the try except
+2021-08-24 00:17:01,078 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:17:57,461 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:17:58,214 : INFO : test_e2e : Sign in Page
+2021-08-24 00:17:58,244 : INFO : test_e2e : Sign in Page
+2021-08-24 00:17:58,244 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:17:58,244 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:18:04,619 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:18:09,765 : INFO : test_e2e : Enter the try except
+2021-08-24 00:18:09,766 : INFO : test_e2e : Enter the address
+2021-08-24 00:18:09,766 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:18:51,888 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:18:52,525 : INFO : test_e2e : Sign in Page
+2021-08-24 00:18:52,566 : INFO : test_e2e : Sign in Page
+2021-08-24 00:18:52,566 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:18:52,566 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:18:59,051 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:19:04,109 : INFO : test_e2e : Enter the try except
+2021-08-24 00:19:04,110 : INFO : test_e2e : Enter the address
+2021-08-24 00:19:04,110 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:20:17,789 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:20:18,563 : INFO : test_e2e : Sign in Page
+2021-08-24 00:20:18,593 : INFO : test_e2e : Sign in Page
+2021-08-24 00:20:18,593 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:20:18,593 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:20:25,108 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:20:30,113 : INFO : test_e2e : Enter the try except
+2021-08-24 00:20:30,114 : INFO : test_e2e : Enter the address
+2021-08-24 00:20:30,121 : INFO : test_e2e :   first_name last_name  ... interest_read               note
+0    iniaku1      aku1  ...             1  Heyya its me aku1
+1    iniaku2      aku2  ...             1  Heyya its me aku2
+2    iniaku3      aku3  ...             1  heyya its me aku3
+
+[3 rows x 18 columns]
+2021-08-24 00:20:30,256 : INFO : test_e2e : get the function of manage the address
+2021-08-24 00:20:30,257 : INFO : test_e2e : 3
+2021-08-24 00:20:30,257 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:22:35,897 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:22:37,596 : INFO : test_e2e : Sign in Page
+2021-08-24 00:22:37,638 : INFO : test_e2e : Sign in Page
+2021-08-24 00:22:37,639 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:22:37,639 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:22:42,144 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:22:45,145 : INFO : test_e2e : Enter the try except
+2021-08-24 00:22:45,146 : INFO : test_e2e : Enter the address
+2021-08-24 00:22:45,155 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:27:05,910 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:27:06,499 : INFO : test_e2e : Sign in Page
+2021-08-24 00:27:06,528 : INFO : test_e2e : Sign in Page
+2021-08-24 00:27:06,528 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:27:06,528 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:27:11,055 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:27:14,057 : INFO : test_e2e : Enter the try except
+2021-08-24 00:27:14,058 : INFO : test_e2e : Enter the address
+2021-08-24 00:27:14,066 : INFO : test_e2e : iniaku1
+2021-08-24 00:27:14,066 : INFO : test_e2e : get the function of manage the address
+2021-08-24 00:27:14,066 : INFO : test_e2e : 3
+2021-08-24 00:27:14,067 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:35:52,480 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:35:53,052 : INFO : test_e2e : Sign in Page
+2021-08-24 00:35:53,090 : INFO : test_e2e : Sign in Page
+2021-08-24 00:35:53,091 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:35:53,091 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:36:00,621 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:36:03,722 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:40:08,878 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:40:09,432 : INFO : test_e2e : Sign in Page
+2021-08-24 00:40:09,468 : INFO : test_e2e : Sign in Page
+2021-08-24 00:40:09,468 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:40:09,469 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:40:16,806 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:40:19,899 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:41:58,645 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:41:59,413 : INFO : test_e2e : Sign in Page
+2021-08-24 00:41:59,440 : INFO : test_e2e : Sign in Page
+2021-08-24 00:41:59,440 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:41:59,440 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:42:06,773 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:42:09,775 : INFO : test_e2e : Enter the try except create
+2021-08-24 00:42:09,856 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:43:39,119 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:43:39,948 : INFO : test_e2e : Sign in Page
+2021-08-24 00:43:39,981 : INFO : test_e2e : Sign in Page
+2021-08-24 00:43:39,981 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:43:39,981 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:43:47,421 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:43:50,424 : INFO : test_e2e : Enter the try except create
+2021-08-24 00:43:50,495 : ERROR : test_e2e : Failed Sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:46:19,283 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:46:19,969 : INFO : test_e2e : Sign in Page
+2021-08-24 00:46:20,289 : INFO : test_e2e : Sign in Page
+2021-08-24 00:46:20,289 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:46:20,289 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:46:27,670 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:46:30,673 : INFO : test_e2e : Enter the try except create
+2021-08-24 00:46:30,754 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:47:15,046 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:47:15,699 : INFO : test_e2e : Sign in Page
+2021-08-24 00:47:15,733 : INFO : test_e2e : Sign in Page
+2021-08-24 00:47:15,734 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:47:15,734 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:47:23,193 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:47:26,197 : INFO : test_e2e : Enter the try except create
+2021-08-24 00:47:26,274 : INFO : test_e2e : Enter the try except
+2021-08-24 00:47:26,274 : INFO : test_e2e : Enter the address
+2021-08-24 00:47:26,290 : INFO : test_e2e : iniaku1
+2021-08-24 00:47:26,291 : INFO : test_e2e : get the function of manage the address
+2021-08-24 00:47:26,291 : INFO : test_e2e : 3
+2021-08-24 00:47:26,291 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:48:27,548 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:48:28,247 : INFO : test_e2e : Sign in Page
+2021-08-24 00:48:28,274 : INFO : test_e2e : Sign in Page
+2021-08-24 00:48:28,275 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:48:28,275 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:48:35,781 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:48:38,782 : INFO : test_e2e : Enter the try except create
+2021-08-24 00:48:38,867 : INFO : test_e2e : Enter the try except
+2021-08-24 00:48:38,867 : INFO : test_e2e : Enter the address
+2021-08-24 00:48:38,878 : INFO : test_e2e : iniaku1
+2021-08-24 00:48:38,879 : INFO : test_e2e : get the function of manage the address
+2021-08-24 00:48:38,879 : INFO : test_e2e : 3
+2021-08-24 00:48:39,044 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:49:52,519 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:49:53,109 : INFO : test_e2e : Sign in Page
+2021-08-24 00:49:53,139 : INFO : test_e2e : Sign in Page
+2021-08-24 00:49:53,139 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:49:53,140 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:50:00,977 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:50:03,978 : INFO : test_e2e : Enter the try except create
+2021-08-24 00:50:04,062 : INFO : test_e2e : Enter the try except
+2021-08-24 00:50:04,062 : INFO : test_e2e : Enter the address
+2021-08-24 00:50:04,077 : INFO : test_e2e : iniaku1
+2021-08-24 00:50:04,077 : INFO : test_e2e : get the function of manage the address
+2021-08-24 00:50:04,077 : INFO : test_e2e : 3
+2021-08-24 00:50:04,080 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:51:23,367 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:51:24,028 : INFO : test_e2e : Sign in Page
+2021-08-24 00:51:24,055 : INFO : test_e2e : Sign in Page
+2021-08-24 00:51:24,055 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:51:24,055 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:51:31,237 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:51:34,239 : INFO : test_e2e : Enter the try except create
+2021-08-24 00:51:34,328 : INFO : test_e2e : Enter the try except
+2021-08-24 00:51:34,328 : INFO : test_e2e : Enter the address
+2021-08-24 00:51:34,336 : INFO : test_e2e : iniaku1
+2021-08-24 00:51:34,336 : INFO : test_e2e : get the function of manage the address
+2021-08-24 00:51:34,336 : INFO : test_e2e : 3
+2021-08-24 00:51:34,336 : INFO : test_e2e : <class 'int'>
+2021-08-24 00:51:34,340 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:52:58,671 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:52:59,411 : INFO : test_e2e : Sign in Page
+2021-08-24 00:52:59,440 : INFO : test_e2e : Sign in Page
+2021-08-24 00:52:59,440 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:52:59,440 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:53:06,834 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:53:09,837 : DEBUG : test_e2e : Enter the try except create
+2021-08-24 00:53:10,042 : DEBUG : test_e2e : Enter the try except
+2021-08-24 00:53:10,043 : INFO : test_e2e : Enter the address
+2021-08-24 00:53:10,057 : DEBUG : test_e2e : iniaku1
+2021-08-24 00:53:10,057 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 00:53:10,057 : DEBUG : test_e2e : 3
+2021-08-24 00:53:10,057 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 00:53:10,057 : DEBUG : test_e2e : 0
+2021-08-24 00:53:10,060 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:53:39,833 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:53:40,338 : INFO : test_e2e : Sign in Page
+2021-08-24 00:53:40,363 : INFO : test_e2e : Sign in Page
+2021-08-24 00:53:40,364 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:53:40,364 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:53:47,753 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:53:50,756 : DEBUG : test_e2e : Enter the try except create
+2021-08-24 00:53:50,834 : DEBUG : test_e2e : Enter the try except
+2021-08-24 00:53:50,835 : INFO : test_e2e : Enter the address
+2021-08-24 00:53:50,843 : DEBUG : test_e2e : iniaku1
+2021-08-24 00:53:50,843 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 00:53:50,843 : DEBUG : test_e2e : 3
+2021-08-24 00:53:50,844 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 00:53:50,844 : DEBUG : test_e2e : 0
+2021-08-24 00:53:50,844 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:54:28,416 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:54:29,101 : INFO : test_e2e : Sign in Page
+2021-08-24 00:54:29,130 : INFO : test_e2e : Sign in Page
+2021-08-24 00:54:29,130 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:54:29,130 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:54:36,623 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:54:39,625 : DEBUG : test_e2e : Enter the try except create
+2021-08-24 00:54:39,706 : DEBUG : test_e2e : Enter the try except
+2021-08-24 00:54:39,707 : INFO : test_e2e : Enter the address
+2021-08-24 00:54:39,719 : DEBUG : test_e2e : iniaku1
+2021-08-24 00:54:39,719 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 00:54:39,719 : DEBUG : test_e2e : 3
+2021-08-24 00:54:39,719 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 00:54:39,719 : DEBUG : test_e2e : 0
+2021-08-24 00:54:39,719 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:56:10,105 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:56:10,667 : INFO : test_e2e : Sign in Page
+2021-08-24 00:56:10,706 : INFO : test_e2e : Sign in Page
+2021-08-24 00:56:10,706 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:56:10,706 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:56:17,913 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:56:20,913 : DEBUG : test_e2e : Enter the try except create
+2021-08-24 00:56:21,007 : DEBUG : test_e2e : Enter the try except
+2021-08-24 00:56:21,007 : INFO : test_e2e : Enter the address
+2021-08-24 00:56:21,020 : DEBUG : test_e2e : iniaku1
+2021-08-24 00:56:21,020 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 00:56:21,021 : DEBUG : test_e2e : 3
+2021-08-24 00:56:21,021 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 00:56:21,021 : DEBUG : test_e2e : 0
+2021-08-24 00:56:21,021 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:57:36,552 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:57:37,045 : INFO : test_e2e : Sign in Page
+2021-08-24 00:57:37,071 : INFO : test_e2e : Sign in Page
+2021-08-24 00:57:37,071 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:57:37,071 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:57:44,353 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:57:47,355 : DEBUG : test_e2e : Enter the try except create
+2021-08-24 00:57:47,428 : DEBUG : test_e2e : Enter the try except
+2021-08-24 00:57:47,428 : INFO : test_e2e : Enter the address
+2021-08-24 00:57:47,441 : DEBUG : test_e2e : iniaku1
+2021-08-24 00:57:47,441 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 00:57:47,441 : DEBUG : test_e2e : 3
+2021-08-24 00:57:47,441 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 00:57:47,442 : DEBUG : test_e2e : 0
+2021-08-24 00:57:47,442 : ERROR : test_e2e : Failed to add address
+2021-08-24 00:58:16,993 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 00:58:17,663 : INFO : test_e2e : Sign in Page
+2021-08-24 00:58:17,696 : INFO : test_e2e : Sign in Page
+2021-08-24 00:58:17,696 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 00:58:17,696 : INFO : test_e2e : password = huewewwuu
+2021-08-24 00:58:25,129 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 00:58:28,133 : DEBUG : test_e2e : Enter the try except create
+2021-08-24 00:58:38,155 : ERROR : test_e2e : Failed to add address
+2021-08-24 01:01:07,097 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 01:01:07,816 : INFO : test_e2e : Sign in Page
+2021-08-24 01:01:07,847 : INFO : test_e2e : Sign in Page
+2021-08-24 01:01:07,847 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 01:01:07,847 : INFO : test_e2e : password = huewewwuu
+2021-08-24 01:01:15,425 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 01:01:18,429 : DEBUG : test_e2e : Enter the try except create
+2021-08-24 01:01:18,514 : DEBUG : test_e2e : Enter the try except
+2021-08-24 01:01:18,515 : INFO : test_e2e : Enter the address
+2021-08-24 01:01:18,521 : DEBUG : test_e2e : iniaku1
+2021-08-24 01:01:18,521 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 01:01:18,521 : DEBUG : test_e2e : 3
+2021-08-24 01:01:18,521 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 01:01:18,522 : DEBUG : test_e2e : 0
+2021-08-24 01:09:16,159 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 01:09:16,811 : INFO : test_e2e : Sign in Page
+2021-08-24 01:09:16,846 : INFO : test_e2e : Sign in Page
+2021-08-24 01:09:16,846 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 01:09:16,847 : INFO : test_e2e : password = huewewwuu
+2021-08-24 01:09:24,033 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 01:09:27,033 : DEBUG : test_e2e : Enter the try except create
+2021-08-24 01:09:27,113 : DEBUG : test_e2e : Enter the try except
+2021-08-24 01:09:27,114 : INFO : test_e2e : Enter the address
+2021-08-24 01:09:27,125 : DEBUG : test_e2e : iniaku1
+2021-08-24 01:09:27,125 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 01:09:27,125 : DEBUG : test_e2e : 3
+2021-08-24 01:09:27,125 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 01:09:27,126 : DEBUG : test_e2e : 0
+2021-08-24 01:09:28,105 : ERROR : test_e2e : Failed to add address
+2021-08-24 01:10:55,120 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 01:10:55,823 : INFO : test_e2e : Sign in Page
+2021-08-24 01:10:55,851 : INFO : test_e2e : Sign in Page
+2021-08-24 01:10:55,851 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 01:10:55,851 : INFO : test_e2e : password = huewewwuu
+2021-08-24 01:11:03,381 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 01:11:06,385 : DEBUG : test_e2e : Enter the try except create
+2021-08-24 01:11:06,472 : DEBUG : test_e2e : Enter the try except
+2021-08-24 01:11:06,472 : INFO : test_e2e : Enter the address
+2021-08-24 01:11:06,487 : DEBUG : test_e2e : iniaku1
+2021-08-24 01:11:06,487 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 01:11:06,487 : DEBUG : test_e2e : 3
+2021-08-24 01:11:06,487 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 01:11:06,487 : DEBUG : test_e2e : 0
+2021-08-24 01:11:07,487 : DEBUG : test_e2e : object of type 'numpy.int64' has no len()
+2021-08-24 01:11:07,487 : ERROR : test_e2e : Failed to add address
+2021-08-24 01:14:23,780 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 01:14:24,482 : INFO : test_e2e : Sign in Page
+2021-08-24 01:14:24,519 : INFO : test_e2e : Sign in Page
+2021-08-24 01:14:24,519 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 01:14:24,519 : INFO : test_e2e : password = huewewwuu
+2021-08-24 01:14:32,029 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 01:14:35,033 : DEBUG : test_e2e : Enter the try except create
+2021-08-24 01:14:35,119 : DEBUG : test_e2e : Enter the try except
+2021-08-24 01:14:35,120 : INFO : test_e2e : Enter the address
+2021-08-24 01:14:35,130 : DEBUG : test_e2e : iniaku1
+2021-08-24 01:14:35,130 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 01:14:35,131 : DEBUG : test_e2e : 3
+2021-08-24 01:14:35,131 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 01:14:35,131 : DEBUG : test_e2e : 0
+2021-08-24 01:14:36,424 : ERROR : test_e2e : object of type 'numpy.int64' has no len()
+2021-08-24 01:14:36,424 : ERROR : test_e2e : Failed to add address
+2021-08-24 01:17:30,831 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 01:17:31,547 : INFO : test_e2e : Sign in Page
+2021-08-24 01:17:31,591 : INFO : test_e2e : Sign in Page
+2021-08-24 01:17:31,591 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 01:17:31,591 : INFO : test_e2e : password = huewewwuu
+2021-08-24 01:17:38,957 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 01:17:41,961 : DEBUG : test_e2e : Enter the try except create
+2021-08-24 01:17:42,047 : DEBUG : test_e2e : Enter the try except
+2021-08-24 01:17:42,047 : INFO : test_e2e : Enter the address
+2021-08-24 01:17:42,060 : DEBUG : test_e2e : iniaku1
+2021-08-24 01:17:42,060 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 01:17:42,061 : DEBUG : test_e2e : 3
+2021-08-24 01:17:42,061 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 01:17:42,061 : DEBUG : test_e2e : 0
+2021-08-24 01:17:43,224 : ERROR : test_e2e : 'WebElement' object has no attribute 'select_by_visible_text'
+2021-08-24 01:17:43,224 : ERROR : test_e2e : Failed to add address
+2021-08-24 01:19:59,207 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 01:19:59,881 : INFO : test_e2e : Sign in Page
+2021-08-24 01:19:59,909 : INFO : test_e2e : Sign in Page
+2021-08-24 01:19:59,910 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 01:19:59,910 : INFO : test_e2e : password = huewewwuu
+2021-08-24 01:20:07,298 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 01:20:10,301 : DEBUG : test_e2e : Enter the try except create
+2021-08-24 01:20:10,406 : DEBUG : test_e2e : Enter the try except
+2021-08-24 01:20:10,406 : INFO : test_e2e : Enter the address
+2021-08-24 01:20:10,415 : DEBUG : test_e2e : iniaku1
+2021-08-24 01:20:10,415 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 01:20:10,415 : DEBUG : test_e2e : 3
+2021-08-24 01:20:10,416 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 01:20:10,416 : DEBUG : test_e2e : 0
+2021-08-24 01:20:11,649 : ERROR : test_e2e : 'WebElement' object has no attribute 'select_by_value'
+2021-08-24 01:20:11,649 : ERROR : test_e2e : Failed to add address
+2021-08-24 01:22:53,601 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 01:22:54,140 : INFO : test_e2e : Sign in Page
+2021-08-24 01:22:54,165 : INFO : test_e2e : Sign in Page
+2021-08-24 01:22:54,170 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 01:22:54,170 : INFO : test_e2e : password = huewewwuu
+2021-08-24 01:23:01,753 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 01:23:04,755 : DEBUG : test_e2e : Enter the try except create
+2021-08-24 01:23:04,835 : DEBUG : test_e2e : Enter the try except
+2021-08-24 01:23:04,836 : INFO : test_e2e : Enter the address
+2021-08-24 01:23:04,851 : DEBUG : test_e2e : iniaku1
+2021-08-24 01:23:04,851 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 01:23:04,851 : DEBUG : test_e2e : 3
+2021-08-24 01:23:04,851 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 01:23:04,852 : DEBUG : test_e2e : 0
+2021-08-24 01:23:06,219 : DEBUG : test_e2e : 1111
+2021-08-24 01:23:06,234 : ERROR : test_e2e : object of type 'numpy.int64' has no len()
+2021-08-24 01:23:06,234 : ERROR : test_e2e : Failed to add address
+2021-08-24 01:26:59,399 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 01:27:00,098 : INFO : test_e2e : Sign in Page
+2021-08-24 01:27:00,120 : INFO : test_e2e : Sign in Page
+2021-08-24 01:27:00,121 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 01:27:00,121 : INFO : test_e2e : password = huewewwuu
+2021-08-24 01:27:07,450 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 01:27:10,453 : DEBUG : test_e2e : Enter the try except create
+2021-08-24 01:27:10,540 : DEBUG : test_e2e : Enter the try except
+2021-08-24 01:27:10,540 : INFO : test_e2e : Enter the address
+2021-08-24 01:27:10,550 : DEBUG : test_e2e : iniaku1
+2021-08-24 01:27:10,550 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 01:27:10,551 : DEBUG : test_e2e : 3
+2021-08-24 01:27:10,551 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 01:27:10,551 : DEBUG : test_e2e : 0
+2021-08-24 01:27:11,753 : DEBUG : test_e2e : 1111
+2021-08-24 01:27:12,010 : ERROR : test_e2e : object of type 'numpy.int64' has no len()
+2021-08-24 01:27:12,011 : ERROR : test_e2e : Failed to add address
+2021-08-24 01:29:52,715 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 01:29:53,435 : INFO : test_e2e : Sign in Page
+2021-08-24 01:29:53,459 : INFO : test_e2e : Sign in Page
+2021-08-24 01:29:53,459 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 01:29:53,460 : INFO : test_e2e : password = huewewwuu
+2021-08-24 01:30:00,769 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 01:30:03,772 : DEBUG : test_e2e : Enter the try except create
+2021-08-24 01:30:03,878 : DEBUG : test_e2e : Enter the try except
+2021-08-24 01:30:03,879 : INFO : test_e2e : Enter the address
+2021-08-24 01:30:03,890 : DEBUG : test_e2e : iniaku1
+2021-08-24 01:30:03,890 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 01:30:03,890 : DEBUG : test_e2e : 3
+2021-08-24 01:30:03,890 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 01:30:03,890 : DEBUG : test_e2e : 0
+2021-08-24 01:30:05,240 : DEBUG : test_e2e : 1111
+2021-08-24 01:30:05,850 : ERROR : test_e2e : 'Addaddress_Page' object has no attribute 'interest_read'
+2021-08-24 01:30:05,850 : ERROR : test_e2e : Failed to add address
+2021-08-24 01:51:56,660 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 01:51:57,474 : INFO : test_e2e : Sign in Page
+2021-08-24 01:51:57,504 : INFO : test_e2e : Sign in Page
+2021-08-24 01:51:57,504 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 01:51:57,504 : INFO : test_e2e : password = huewewwuu
+2021-08-24 01:52:04,981 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 01:52:07,985 : INFO : test_e2e : Enter the address
+2021-08-24 01:52:07,991 : DEBUG : test_e2e : iniaku1
+2021-08-24 01:52:07,991 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 01:52:07,991 : DEBUG : test_e2e : 3
+2021-08-24 01:52:07,991 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 01:52:08,083 : DEBUG : test_e2e : 0
+2021-08-24 01:52:09,326 : DEBUG : test_e2e : 1111
+2021-08-24 01:52:20,138 : ERROR : test_e2e : Message: element not interactable
+  (Session info: chrome=92.0.4515.159)
+
+2021-08-24 01:52:20,160 : ERROR : test_e2e : Failed to add address
+2021-08-24 01:54:37,021 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 01:54:37,621 : INFO : test_e2e : Sign in Page
+2021-08-24 01:54:37,643 : INFO : test_e2e : Sign in Page
+2021-08-24 01:54:37,644 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 01:54:37,644 : INFO : test_e2e : password = huewewwuu
+2021-08-24 01:54:45,157 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 01:54:48,157 : INFO : test_e2e : Enter the address
+2021-08-24 01:54:48,163 : DEBUG : test_e2e : iniaku1
+2021-08-24 01:54:48,163 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 01:54:48,163 : DEBUG : test_e2e : 3
+2021-08-24 01:54:48,163 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 01:54:48,239 : DEBUG : test_e2e : 0
+2021-08-24 01:54:49,451 : DEBUG : test_e2e : 1111
+2021-08-24 01:55:00,252 : ERROR : test_e2e : Message: element not interactable
+  (Session info: chrome=92.0.4515.159)
+
+2021-08-24 01:55:00,474 : ERROR : test_e2e : Failed to add address
+2021-08-24 01:59:03,723 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 01:59:04,534 : INFO : test_e2e : Sign in Page
+2021-08-24 01:59:04,559 : INFO : test_e2e : Sign in Page
+2021-08-24 01:59:04,559 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 01:59:04,559 : INFO : test_e2e : password = huewewwuu
+2021-08-24 01:59:12,141 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 01:59:15,145 : INFO : test_e2e : Enter the address
+2021-08-24 01:59:15,151 : DEBUG : test_e2e : iniaku1
+2021-08-24 01:59:15,151 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 01:59:15,151 : DEBUG : test_e2e : 3
+2021-08-24 01:59:15,151 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 01:59:15,229 : DEBUG : test_e2e : 0
+2021-08-24 01:59:16,507 : DEBUG : test_e2e : 1111
+2021-08-24 01:59:17,200 : DEBUG : test_e2e : 1
+2021-08-24 01:59:17,290 : DEBUG : test_e2e : 1
+2021-08-24 01:59:17,371 : DEBUG : test_e2e : 1
+2021-08-24 01:59:18,377 : INFO : test_e2e : Successfully add new address
+2021-08-24 01:59:21,380 : ERROR : test_e2e : name 'getCurrentUrl' is not defined
+2021-08-24 01:59:21,381 : ERROR : test_e2e : Failed to add address
+2021-08-24 02:01:23,745 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 02:01:24,229 : INFO : test_e2e : Sign in Page
+2021-08-24 02:01:24,256 : INFO : test_e2e : Sign in Page
+2021-08-24 02:01:24,257 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 02:01:24,257 : INFO : test_e2e : password = huewewwuu
+2021-08-24 02:01:31,701 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 02:01:34,701 : INFO : test_e2e : Enter the address
+2021-08-24 02:01:34,709 : DEBUG : test_e2e : iniaku1
+2021-08-24 02:01:34,709 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 02:01:34,710 : DEBUG : test_e2e : 3
+2021-08-24 02:01:34,710 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 02:01:34,800 : DEBUG : test_e2e : 0
+2021-08-24 02:01:36,214 : DEBUG : test_e2e : 1111
+2021-08-24 02:01:36,916 : DEBUG : test_e2e : 1
+2021-08-24 02:01:36,999 : DEBUG : test_e2e : 1
+2021-08-24 02:01:37,080 : DEBUG : test_e2e : 1
+2021-08-24 02:01:38,240 : INFO : test_e2e : Successfully add new address
+2021-08-24 02:01:41,246 : ERROR : test_e2e : 'str' object is not callable
+2021-08-24 02:01:41,247 : ERROR : test_e2e : Failed to add address
+2021-08-24 02:05:15,943 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 02:05:16,588 : INFO : test_e2e : Sign in Page
+2021-08-24 02:05:16,613 : INFO : test_e2e : Sign in Page
+2021-08-24 02:05:16,613 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 02:05:16,614 : INFO : test_e2e : password = huewewwuu
+2021-08-24 02:05:23,949 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 02:05:26,951 : INFO : test_e2e : Enter the address
+2021-08-24 02:05:26,957 : DEBUG : test_e2e : iniaku1
+2021-08-24 02:05:26,957 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 02:05:26,957 : DEBUG : test_e2e : 3
+2021-08-24 02:05:26,957 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 02:05:27,065 : DEBUG : test_e2e : 0
+2021-08-24 02:05:28,452 : DEBUG : test_e2e : 1111
+2021-08-24 02:05:29,155 : DEBUG : test_e2e : 1
+2021-08-24 02:05:29,251 : DEBUG : test_e2e : 1
+2021-08-24 02:05:29,338 : DEBUG : test_e2e : 1
+2021-08-24 02:05:30,480 : INFO : test_e2e : Successfully add new address
+2021-08-24 02:05:33,482 : DEBUG : test_e2e : wait for the id
+2021-08-24 02:05:33,489 : ERROR : test_e2e : 'str' object is not callable
+2021-08-24 02:05:33,489 : ERROR : test_e2e : Failed to add address
+2021-08-24 02:15:24,016 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 02:15:24,840 : INFO : test_e2e : Sign in Page
+2021-08-24 02:15:24,877 : INFO : test_e2e : Sign in Page
+2021-08-24 02:15:24,877 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 02:15:24,877 : INFO : test_e2e : password = huewewwuu
+2021-08-24 02:15:32,189 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 02:15:35,193 : INFO : test_e2e : Enter the address
+2021-08-24 02:15:35,200 : DEBUG : test_e2e : iniaku1
+2021-08-24 02:15:35,200 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 02:15:35,200 : DEBUG : test_e2e : 3
+2021-08-24 02:15:35,200 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 02:15:35,282 : DEBUG : test_e2e : 0
+2021-08-24 02:15:37,055 : DEBUG : test_e2e : 1111
+2021-08-24 02:15:37,714 : DEBUG : test_e2e : 1
+2021-08-24 02:15:37,789 : DEBUG : test_e2e : 1
+2021-08-24 02:15:37,860 : DEBUG : test_e2e : 1
+2021-08-24 02:15:39,179 : INFO : test_e2e : Successfully add new address
+2021-08-24 02:15:42,181 : DEBUG : test_e2e : wait for the id
+2021-08-24 02:15:42,187 : DEBUG : test_e2e : http://a.testaddressbook.com/addresses/10059
+2021-08-24 02:15:42,188 : INFO : test_e2e : ID Address : 10059
+2021-08-24 02:17:58,735 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 02:17:59,439 : INFO : test_e2e : Sign in Page
+2021-08-24 02:17:59,465 : INFO : test_e2e : Sign in Page
+2021-08-24 02:17:59,465 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 02:17:59,465 : INFO : test_e2e : password = huewewwuu
+2021-08-24 02:18:06,821 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 02:18:09,822 : INFO : test_e2e : Enter the address
+2021-08-24 02:18:09,827 : DEBUG : test_e2e : iniaku1
+2021-08-24 02:18:09,827 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 02:18:09,827 : DEBUG : test_e2e : 3
+2021-08-24 02:18:09,827 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 02:18:09,919 : DEBUG : test_e2e : 0
+2021-08-24 02:18:11,355 : DEBUG : test_e2e : 1111
+2021-08-24 02:18:12,070 : DEBUG : test_e2e : 1
+2021-08-24 02:18:12,165 : DEBUG : test_e2e : 1
+2021-08-24 02:18:12,257 : DEBUG : test_e2e : 1
+2021-08-24 02:18:13,567 : INFO : test_e2e : Successfully add new address
+2021-08-24 02:18:16,569 : DEBUG : test_e2e : wait for the id
+2021-08-24 02:18:16,576 : DEBUG : test_e2e : http://a.testaddressbook.com/addresses/10060
+2021-08-24 02:18:16,577 : INFO : test_e2e : ID Address : 10060
+2021-08-24 02:18:26,648 : ERROR : test_e2e : Message: no such element: Unable to locate element: {"method":"css selector","selector":"[data-test='create']"}
+  (Session info: chrome=92.0.4515.159)
+
+2021-08-24 02:18:26,703 : ERROR : test_e2e : Failed to add address
+2021-08-24 02:19:37,911 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 02:19:38,581 : INFO : test_e2e : Sign in Page
+2021-08-24 02:19:38,603 : INFO : test_e2e : Sign in Page
+2021-08-24 02:19:38,603 : INFO : test_e2e : email = huewwwewyy@gmail.com
+2021-08-24 02:19:38,603 : INFO : test_e2e : password = huewewwuu
+2021-08-24 02:19:45,767 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyy@gmail.com and password = huewewwuu
+2021-08-24 02:19:48,769 : INFO : test_e2e : Enter the address
+2021-08-24 02:19:48,776 : DEBUG : test_e2e : iniaku1
+2021-08-24 02:19:48,776 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 02:19:48,777 : DEBUG : test_e2e : 3
+2021-08-24 02:19:48,777 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 02:19:48,858 : DEBUG : test_e2e : 0
+2021-08-24 02:19:50,209 : DEBUG : test_e2e : 1111
+2021-08-24 02:19:50,900 : DEBUG : test_e2e : 1
+2021-08-24 02:19:50,993 : DEBUG : test_e2e : 1
+2021-08-24 02:19:51,082 : DEBUG : test_e2e : 1
+2021-08-24 02:19:52,282 : INFO : test_e2e : Successfully add new address
+2021-08-24 02:19:55,285 : DEBUG : test_e2e : wait for the id
+2021-08-24 02:19:55,291 : DEBUG : test_e2e : http://a.testaddressbook.com/addresses/10061
+2021-08-24 02:19:55,291 : INFO : test_e2e : ID Address : 10061
+2021-08-24 02:19:55,743 : DEBUG : test_e2e : 1
+2021-08-24 02:19:56,979 : DEBUG : test_e2e : 2222
+2021-08-24 02:19:57,609 : DEBUG : test_e2e : 1
+2021-08-24 02:19:57,689 : DEBUG : test_e2e : 1
+2021-08-24 02:19:57,773 : DEBUG : test_e2e : 1
+2021-08-24 02:19:58,822 : INFO : test_e2e : Successfully add new address
+2021-08-24 02:20:01,825 : DEBUG : test_e2e : wait for the id
+2021-08-24 02:20:01,830 : DEBUG : test_e2e : http://a.testaddressbook.com/addresses/10062
+2021-08-24 02:20:01,830 : INFO : test_e2e : ID Address : 10062
+2021-08-24 02:20:02,324 : DEBUG : test_e2e : 2
+2021-08-24 02:20:03,733 : DEBUG : test_e2e : 3333
+2021-08-24 02:20:04,366 : DEBUG : test_e2e : 1
+2021-08-24 02:20:04,491 : DEBUG : test_e2e : 1
+2021-08-24 02:20:04,573 : DEBUG : test_e2e : 1
+2021-08-24 02:20:05,674 : INFO : test_e2e : Successfully add new address
+2021-08-24 02:20:08,677 : DEBUG : test_e2e : wait for the id
+2021-08-24 02:20:08,681 : DEBUG : test_e2e : http://a.testaddressbook.com/addresses/10063
+2021-08-24 02:20:08,682 : INFO : test_e2e : ID Address : 10063
+2021-08-24 02:52:16,913 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 02:52:17,679 : INFO : test_e2e : Sign in Page
+2021-08-24 02:52:20,843 : INFO : test_e2e : Sign up Page
+2021-08-24 02:52:20,843 : INFO : test_e2e : email = huewwwewyynew@gmail.com
+2021-08-24 02:52:20,843 : INFO : test_e2e : password = huewewwuu
+2021-08-24 02:52:28,049 : INFO : test_e2e : Successfully sign up with email = huewwwewyynew@gmail.com and password = huewewwuu
+2021-08-24 02:52:36,297 : INFO : test_e2e : Sign up Page
+2021-08-24 02:52:36,297 : INFO : test_e2e : email = hayohayonew@gmail.com
+2021-08-24 02:52:36,297 : INFO : test_e2e : password = hayohayohayo
+2021-08-24 02:52:43,733 : INFO : test_e2e : Successfully sign up with email = hayohayonew@gmail.com and password = hayohayohayo
+2021-08-24 02:52:48,795 : INFO : test_e2e : Sign in Page
+2021-08-24 02:52:48,795 : INFO : test_e2e : email = huewwwewyynew@gmail.com
+2021-08-24 02:52:48,795 : INFO : test_e2e : password = huewewwuu
+2021-08-24 02:52:56,368 : INFO : test_e2e : Succcessfully sign in with email = huewwwewyynew@gmail.com and password = huewewwuu
+2021-08-24 02:52:59,369 : INFO : test_e2e : Enter the address
+2021-08-24 02:52:59,544 : DEBUG : test_e2e : iniaku1
+2021-08-24 02:52:59,544 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 02:52:59,544 : DEBUG : test_e2e : 3
+2021-08-24 02:52:59,544 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 02:52:59,669 : DEBUG : test_e2e : 0
+2021-08-24 02:53:01,294 : DEBUG : test_e2e : 1111
+2021-08-24 02:53:02,218 : DEBUG : test_e2e : 1
+2021-08-24 02:53:02,656 : DEBUG : test_e2e : 1
+2021-08-24 02:53:02,762 : DEBUG : test_e2e : 1
+2021-08-24 02:53:03,905 : INFO : test_e2e : Successfully add new address
+2021-08-24 02:53:06,907 : DEBUG : test_e2e : wait for the id
+2021-08-24 02:53:06,917 : DEBUG : test_e2e : http://a.testaddressbook.com/addresses/10064
+2021-08-24 02:53:06,918 : INFO : test_e2e : ID Address : 10064
+2021-08-24 02:53:07,490 : DEBUG : test_e2e : 1
+2021-08-24 02:53:09,243 : DEBUG : test_e2e : 2222
+2021-08-24 02:53:10,080 : DEBUG : test_e2e : 1
+2021-08-24 02:53:10,191 : DEBUG : test_e2e : 1
+2021-08-24 02:53:10,311 : DEBUG : test_e2e : 1
+2021-08-24 02:53:11,568 : INFO : test_e2e : Successfully add new address
+2021-08-24 02:53:14,571 : DEBUG : test_e2e : wait for the id
+2021-08-24 02:53:14,579 : DEBUG : test_e2e : http://a.testaddressbook.com/addresses/10065
+2021-08-24 02:53:14,579 : INFO : test_e2e : ID Address : 10065
+2021-08-24 02:53:15,274 : DEBUG : test_e2e : 2
+2021-08-24 02:53:16,752 : DEBUG : test_e2e : 3333
+2021-08-24 02:53:17,583 : DEBUG : test_e2e : 1
+2021-08-24 02:53:17,688 : DEBUG : test_e2e : 1
+2021-08-24 02:53:17,782 : DEBUG : test_e2e : 1
+2021-08-24 02:53:19,033 : INFO : test_e2e : Successfully add new address
+2021-08-24 02:53:22,036 : DEBUG : test_e2e : wait for the id
+2021-08-24 02:53:22,043 : DEBUG : test_e2e : http://a.testaddressbook.com/addresses/10066
+2021-08-24 02:53:22,043 : INFO : test_e2e : ID Address : 10066
+2021-08-24 02:53:22,602 : INFO : test_e2e : SHOW ADDRESS ID 10064
+2021-08-24 02:53:24,604 : ERROR : test_e2e : 'ResultaddressPage' object has no attribute 'screenshoot'
+2021-08-24 02:53:24,605 : ERROR : test_e2e : Failed to add address
+2021-08-24 03:09:35,218 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 03:09:36,079 : INFO : test_e2e : Sign in Page
+2021-08-24 03:09:39,232 : INFO : test_e2e : Sign up Page
+2021-08-24 03:09:39,232 : INFO : test_e2e : email = itsmenumber1@gmail.com
+2021-08-24 03:09:39,232 : INFO : test_e2e : password = wellhello
+2021-08-24 03:09:48,638 : INFO : test_e2e : Successfully sign up with email = itsmenumber1@gmail.com and password = wellhello
+2021-08-24 03:09:56,777 : INFO : test_e2e : Sign up Page
+2021-08-24 03:09:56,778 : INFO : test_e2e : email = thenmenumber2@gmail.com
+2021-08-24 03:09:56,778 : INFO : test_e2e : password = heyyahello
+2021-08-24 03:10:03,971 : INFO : test_e2e : Successfully sign up with email = thenmenumber2@gmail.com and password = heyyahello
+2021-08-24 03:10:09,022 : INFO : test_e2e : Sign in Page
+2021-08-24 03:10:09,022 : INFO : test_e2e : email = itsmenumber1@gmail.com
+2021-08-24 03:10:09,022 : INFO : test_e2e : password = wellhello
+2021-08-24 03:10:16,385 : INFO : test_e2e : Succcessfully sign in with email = itsmenumber1@gmail.com and password = wellhello
+2021-08-24 03:10:19,389 : INFO : test_e2e : Enter the address
+2021-08-24 03:10:19,488 : DEBUG : test_e2e : iniaku1
+2021-08-24 03:10:19,489 : DEBUG : test_e2e : get the function of manage the address
+2021-08-24 03:10:19,490 : DEBUG : test_e2e : 3
+2021-08-24 03:10:19,491 : DEBUG : test_e2e : <class 'int'>
+2021-08-24 03:10:19,593 : DEBUG : test_e2e : 0
+2021-08-24 03:10:21,143 : DEBUG : test_e2e : 1111
+2021-08-24 03:10:21,816 : DEBUG : test_e2e : 1
+2021-08-24 03:10:21,902 : DEBUG : test_e2e : 1
+2021-08-24 03:10:21,987 : DEBUG : test_e2e : 1
+2021-08-24 03:10:23,101 : INFO : test_e2e : Successfully add new address
+2021-08-24 03:10:26,105 : DEBUG : test_e2e : wait for the id
+2021-08-24 03:10:26,115 : DEBUG : test_e2e : http://a.testaddressbook.com/addresses/10067
+2021-08-24 03:10:26,115 : INFO : test_e2e : ID Address : 10067
+2021-08-24 03:10:26,787 : DEBUG : test_e2e : 1
+2021-08-24 03:10:30,159 : DEBUG : test_e2e : 2222
+2021-08-24 03:10:30,774 : DEBUG : test_e2e : 1
+2021-08-24 03:10:30,848 : DEBUG : test_e2e : 1
+2021-08-24 03:10:30,919 : DEBUG : test_e2e : 1
+2021-08-24 03:10:32,253 : INFO : test_e2e : Successfully add new address
+2021-08-24 03:10:35,255 : DEBUG : test_e2e : wait for the id
+2021-08-24 03:10:35,277 : DEBUG : test_e2e : http://a.testaddressbook.com/addresses/10068
+2021-08-24 03:10:35,283 : INFO : test_e2e : ID Address : 10068
+2021-08-24 03:10:35,947 : DEBUG : test_e2e : 2
+2021-08-24 03:10:37,786 : DEBUG : test_e2e : 3333
+2021-08-24 03:10:38,474 : DEBUG : test_e2e : 1
+2021-08-24 03:10:38,554 : DEBUG : test_e2e : 1
+2021-08-24 03:10:38,638 : DEBUG : test_e2e : 1
+2021-08-24 03:10:39,999 : INFO : test_e2e : Successfully add new address
+2021-08-24 03:10:43,001 : DEBUG : test_e2e : wait for the id
+2021-08-24 03:10:43,010 : DEBUG : test_e2e : http://a.testaddressbook.com/addresses/10069
+2021-08-24 03:10:43,010 : INFO : test_e2e : ID Address : 10069
+2021-08-24 03:10:44,205 : INFO : test_e2e : SHOW ADDRESS ID 10067
+2021-08-24 03:10:46,726 : INFO : test_e2e : SHOW ADDRESS ID 10067
+2021-08-24 03:10:49,106 : INFO : test_e2e : SHOW ADDRESS ID 10067
+2021-08-24 03:10:51,490 : ERROR : test_e2e : 'function' object has no attribute 'accept'
+2021-08-24 03:10:51,490 : ERROR : test_e2e : Failed to add address
+2021-08-24 03:19:03,633 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 03:19:04,217 : INFO : test_e2e : Sign in Page
+2021-08-24 03:19:07,341 : INFO : test_e2e : Sign up Page
+2021-08-24 03:19:07,341 : INFO : test_e2e : email = itsmenumber1@gmail.com
+2021-08-24 03:19:07,341 : INFO : test_e2e : password = wellhello
+2021-08-24 03:19:17,895 : ERROR : test_e2e : Failed Sign up with email = itsmenumber1@gmail.com and password = wellhello
+2021-08-24 03:20:06,363 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 03:20:06,941 : INFO : test_e2e : Sign in Page
+2021-08-24 03:20:10,074 : INFO : test_e2e : Sign up Page
+2021-08-24 03:20:10,074 : INFO : test_e2e : email = backitsmenumber1@gmail.com
+2021-08-24 03:20:10,075 : INFO : test_e2e : password = wellhello
+2021-08-24 03:20:17,961 : INFO : test_e2e : Successfully sign up with email = backitsmenumber1@gmail.com and password = wellhello
+2021-08-24 03:20:26,193 : INFO : test_e2e : Sign up Page
+2021-08-24 03:20:26,193 : INFO : test_e2e : email = backthenmenumber2@gmail.com
+2021-08-24 03:20:26,193 : INFO : test_e2e : password = heyyahello
+2021-08-24 03:20:33,385 : INFO : test_e2e : Successfully sign up with email = backthenmenumber2@gmail.com and password = heyyahello
+2021-08-24 03:20:38,432 : INFO : test_e2e : Sign in Page
+2021-08-24 03:20:38,432 : INFO : test_e2e : email = backitsmenumber1@gmail.com
+2021-08-24 03:20:38,432 : INFO : test_e2e : password = wellhello
+2021-08-24 03:20:46,789 : INFO : test_e2e : Succcessfully sign in with email = backitsmenumber1@gmail.com and password = wellhello
+2021-08-24 03:20:49,837 : INFO : test_e2e : Enter the address
+2021-08-24 03:20:52,996 : INFO : test_e2e : Successfully add new address
+2021-08-24 03:20:56,003 : INFO : test_e2e : ID Address : 10071
+2021-08-24 03:20:59,733 : INFO : test_e2e : Successfully add new address
+2021-08-24 03:21:02,738 : INFO : test_e2e : ID Address : 10072
+2021-08-24 03:21:06,483 : INFO : test_e2e : Successfully add new address
+2021-08-24 03:21:09,492 : INFO : test_e2e : ID Address : 10073
+2021-08-24 03:21:10,014 : INFO : test_e2e : SHOW ADDRESS ID 10071
+2021-08-24 03:21:12,365 : INFO : test_e2e : SHOW ADDRESS ID 10072
+2021-08-24 03:21:14,777 : INFO : test_e2e : SHOW ADDRESS ID 10073
+2021-08-24 03:21:17,139 : ERROR : test_e2e : name 'time' is not defined
+2021-08-24 03:21:17,139 : ERROR : test_e2e : Failed to add address
+2021-08-24 03:23:35,939 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 03:23:36,610 : INFO : test_e2e : Sign in Page
+2021-08-24 03:23:39,734 : INFO : test_e2e : Sign up Page
+2021-08-24 03:23:39,735 : INFO : test_e2e : email = backwithmenumber1@gmail.com
+2021-08-24 03:23:39,735 : INFO : test_e2e : password = wellhello
+2021-08-24 03:23:47,111 : INFO : test_e2e : Successfully sign up with email = backwithmenumber1@gmail.com and password = wellhello
+2021-08-24 03:23:55,314 : INFO : test_e2e : Sign up Page
+2021-08-24 03:23:55,334 : INFO : test_e2e : email = backtomenumber2@gmail.com
+2021-08-24 03:23:55,334 : INFO : test_e2e : password = heyyahello
+2021-08-24 03:24:02,484 : INFO : test_e2e : Successfully sign up with email = backtomenumber2@gmail.com and password = heyyahello
+2021-08-24 03:24:07,529 : INFO : test_e2e : Sign in Page
+2021-08-24 03:24:07,529 : INFO : test_e2e : email = backwithmenumber1@gmail.com
+2021-08-24 03:24:07,529 : INFO : test_e2e : password = wellhello
+2021-08-24 03:24:14,851 : INFO : test_e2e : Succcessfully sign in with email = backwithmenumber1@gmail.com and password = wellhello
+2021-08-24 03:24:17,853 : INFO : test_e2e : Enter the address
+2021-08-24 03:24:21,285 : INFO : test_e2e : Successfully add new address
+2021-08-24 03:24:24,347 : INFO : test_e2e : ID Address : 10074
+2021-08-24 03:24:28,235 : INFO : test_e2e : Successfully add new address
+2021-08-24 03:24:31,242 : INFO : test_e2e : ID Address : 10075
+2021-08-24 03:24:34,851 : INFO : test_e2e : Successfully add new address
+2021-08-24 03:24:37,890 : INFO : test_e2e : ID Address : 10076
+2021-08-24 03:24:38,512 : INFO : test_e2e : SHOW ADDRESS ID 10074
+2021-08-24 03:24:40,851 : INFO : test_e2e : SHOW ADDRESS ID 10075
+2021-08-24 03:24:43,248 : INFO : test_e2e : SHOW ADDRESS ID 10076
+2021-08-24 03:24:47,631 : INFO : test_e2e : DELETED ADDRESSS ID 10074
+2021-08-24 03:24:50,465 : INFO : test_e2e : DELETED ADDRESSS ID 10074
+2021-08-24 03:24:53,444 : INFO : test_e2e : DELETED ADDRESSS ID 10074
+2021-08-24 03:24:55,469 : INFO : test_e2e : SIGN OUT FROM email = backwithmenumber1@gmail.com and password = wellhello
+2021-08-24 03:24:55,530 : INFO : test_e2e : Sign in Page
+2021-08-24 03:24:55,530 : INFO : test_e2e : email = backtomenumber2@gmail.com
+2021-08-24 03:24:55,531 : INFO : test_e2e : password = heyyahello
+2021-08-24 03:25:02,809 : INFO : test_e2e : Succcessfully sign in with email = backtomenumber2@gmail.com and password = heyyahello
+2021-08-24 03:25:05,813 : INFO : test_e2e : Enter the address
+2021-08-24 03:25:08,992 : INFO : test_e2e : Successfully add new address
+2021-08-24 03:25:12,000 : INFO : test_e2e : ID Address : 10077
+2021-08-24 03:25:15,948 : INFO : test_e2e : Successfully add new address
+2021-08-24 03:25:18,953 : INFO : test_e2e : ID Address : 10078
+2021-08-24 03:25:22,713 : INFO : test_e2e : Successfully add new address
+2021-08-24 03:25:25,718 : INFO : test_e2e : ID Address : 10079
+2021-08-24 03:25:26,236 : INFO : test_e2e : SHOW ADDRESS ID 10077
+2021-08-24 03:25:28,566 : INFO : test_e2e : SHOW ADDRESS ID 10078
+2021-08-24 03:25:31,026 : INFO : test_e2e : SHOW ADDRESS ID 10079
+2021-08-24 03:25:35,415 : INFO : test_e2e : DELETED ADDRESSS ID 10078
+2021-08-24 03:25:38,517 : INFO : test_e2e : DELETED ADDRESSS ID 10078
+2021-08-24 03:25:41,576 : INFO : test_e2e : DELETED ADDRESSS ID 10078
+2021-08-24 03:25:43,265 : INFO : test_e2e : SIGN OUT FROM email = backtomenumber2@gmail.com and password = heyyahello
