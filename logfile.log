@@ -855,3 +855,95 @@
 2021-08-24 03:25:38,517 : INFO : test_e2e : DELETED ADDRESSS ID 10078
 2021-08-24 03:25:41,576 : INFO : test_e2e : DELETED ADDRESSS ID 10078
 2021-08-24 03:25:43,265 : INFO : test_e2e : SIGN OUT FROM email = backtomenumber2@gmail.com and password = heyyahello
+2021-08-24 11:55:56,161 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 11:55:57,031 : INFO : test_e2e : Sign in Page
+2021-08-24 11:56:00,161 : INFO : test_e2e : Sign up Page
+2021-08-24 11:56:00,161 : INFO : test_e2e : email = backwithmetry1@gmail.com
+2021-08-24 11:56:00,161 : INFO : test_e2e : password = wellhello
+2021-08-24 11:56:07,243 : INFO : test_e2e : Successfully sign up with email = backwithmetry1@gmail.com and password = wellhello
+2021-08-24 11:56:15,363 : INFO : test_e2e : Sign up Page
+2021-08-24 11:56:15,363 : INFO : test_e2e : email = backtometry2@gmail.com
+2021-08-24 11:56:15,364 : INFO : test_e2e : password = heyyahello
+2021-08-24 11:56:23,147 : INFO : test_e2e : Successfully sign up with email = backtometry2@gmail.com and password = heyyahello
+2021-08-24 11:56:28,223 : INFO : test_e2e : Sign in Page
+2021-08-24 11:56:28,224 : INFO : test_e2e : email = backwithmetry1@gmail.com
+2021-08-24 11:56:28,224 : INFO : test_e2e : password = wellhello
+2021-08-24 11:56:35,456 : INFO : test_e2e : Succcessfully sign in with email = backwithmetry1@gmail.com and password = wellhello
+2021-08-24 11:56:38,460 : INFO : test_e2e : Enter the address
+2021-08-24 11:56:41,800 : INFO : test_e2e : Successfully add new address
+2021-08-24 11:56:44,807 : INFO : test_e2e : ID Address : 10095
+2021-08-24 11:56:48,781 : INFO : test_e2e : Successfully add new address
+2021-08-24 11:56:51,798 : INFO : test_e2e : ID Address : 10096
+2021-08-24 11:56:55,494 : INFO : test_e2e : Successfully add new address
+2021-08-24 11:56:58,504 : INFO : test_e2e : ID Address : 10097
+2021-08-24 11:56:59,286 : INFO : test_e2e : SHOW ADDRESS ID 10095
+2021-08-24 11:57:01,722 : INFO : test_e2e : SHOW ADDRESS ID 10096
+2021-08-24 11:57:04,054 : INFO : test_e2e : SHOW ADDRESS ID 10097
+2021-08-24 11:57:08,356 : INFO : test_e2e : DELETED ADDRESSS ID 10095
+2021-08-24 11:57:11,578 : INFO : test_e2e : DELETED ADDRESSS ID 10096
+2021-08-24 11:57:14,530 : INFO : test_e2e : DELETED ADDRESSS ID 10097
+2021-08-24 11:57:16,182 : INFO : test_e2e : SIGN OUT FROM email = backwithmetry1@gmail.com and password = wellhello
+2021-08-24 11:57:16,215 : INFO : test_e2e : Sign in Page
+2021-08-24 11:57:16,216 : INFO : test_e2e : email = backtometry2@gmail.com
+2021-08-24 11:57:16,216 : INFO : test_e2e : password = heyyahello
+2021-08-24 11:57:23,412 : INFO : test_e2e : Succcessfully sign in with email = backtometry2@gmail.com and password = heyyahello
+2021-08-24 11:57:26,415 : INFO : test_e2e : Enter the address
+2021-08-24 11:57:29,256 : INFO : test_e2e : Successfully add new address
+2021-08-24 11:57:32,268 : INFO : test_e2e : ID Address : 10098
+2021-08-24 11:57:35,603 : INFO : test_e2e : Successfully add new address
+2021-08-24 11:57:38,616 : INFO : test_e2e : ID Address : 10099
+2021-08-24 11:57:41,841 : INFO : test_e2e : Successfully add new address
+2021-08-24 11:57:44,855 : INFO : test_e2e : ID Address : 10100
+2021-08-24 11:57:50,066 : INFO : test_e2e : SHOW ADDRESS ID 10098
+2021-08-24 11:57:52,339 : INFO : test_e2e : SHOW ADDRESS ID 10099
+2021-08-24 11:57:54,733 : INFO : test_e2e : SHOW ADDRESS ID 10100
+2021-08-24 11:57:59,048 : INFO : test_e2e : DELETED ADDRESSS ID 10098
+2021-08-24 11:58:01,901 : INFO : test_e2e : DELETED ADDRESSS ID 10099
+2021-08-24 11:58:04,766 : INFO : test_e2e : DELETED ADDRESSS ID 10100
+2021-08-24 11:58:06,631 : INFO : test_e2e : SIGN OUT FROM email = backtometry2@gmail.com and password = heyyahello
+2021-08-24 13:12:38,560 : INFO : test_e2e : Welcome to Address Book
+2021-08-24 13:12:39,232 : INFO : test_e2e : Sign in Page
+2021-08-24 13:12:42,691 : INFO : test_e2e : Sign up Page
+2021-08-24 13:12:42,691 : INFO : test_e2e : email = hereitsmeagain1@gmail.com
+2021-08-24 13:12:42,691 : INFO : test_e2e : password = wellhello
+2021-08-24 13:12:53,901 : INFO : test_e2e : Successfully sign up with email = hereitsmeagain1@gmail.com and password = wellhello
+2021-08-24 13:13:02,106 : INFO : test_e2e : Sign up Page
+2021-08-24 13:13:02,106 : INFO : test_e2e : email = hereitsmetry2@gmail.com
+2021-08-24 13:13:02,106 : INFO : test_e2e : password = heyyahello
+2021-08-24 13:13:09,685 : INFO : test_e2e : Successfully sign up with email = hereitsmetry2@gmail.com and password = heyyahello
+2021-08-24 13:13:14,759 : INFO : test_e2e : Sign in Page
+2021-08-24 13:13:14,759 : INFO : test_e2e : email = hereitsmeagain1@gmail.com
+2021-08-24 13:13:14,759 : INFO : test_e2e : password = wellhello
+2021-08-24 13:13:22,128 : INFO : test_e2e : Succcessfully sign in with email = hereitsmeagain1@gmail.com and password = wellhello
+2021-08-24 13:13:25,132 : INFO : test_e2e : Enter the address
+2021-08-24 13:13:28,537 : INFO : test_e2e : Successfully add new address
+2021-08-24 13:13:31,548 : INFO : test_e2e : ID Address : 10103
+2021-08-24 13:13:35,840 : INFO : test_e2e : Successfully add new address
+2021-08-24 13:13:38,851 : INFO : test_e2e : ID Address : 10104
+2021-08-24 13:13:42,823 : INFO : test_e2e : Successfully add new address
+2021-08-24 13:13:45,838 : INFO : test_e2e : ID Address : 10105
+2021-08-24 13:13:46,433 : INFO : test_e2e : SHOW ADDRESS ID 10103
+2021-08-24 13:13:49,004 : INFO : test_e2e : SHOW ADDRESS ID 10104
+2021-08-24 13:13:51,345 : INFO : test_e2e : SHOW ADDRESS ID 10105
+2021-08-24 13:13:55,640 : INFO : test_e2e : DELETED ADDRESSS ID 10103
+2021-08-24 13:13:58,405 : INFO : test_e2e : DELETED ADDRESSS ID 10104
+2021-08-24 13:14:01,504 : INFO : test_e2e : DELETED ADDRESSS ID 10105
+2021-08-24 13:14:03,541 : INFO : test_e2e : SIGN OUT FROM email = hereitsmeagain1@gmail.com and password = wellhello
+2021-08-24 13:14:03,585 : INFO : test_e2e : Sign in Page
+2021-08-24 13:14:03,585 : INFO : test_e2e : email = hereitsmetry2@gmail.com
+2021-08-24 13:14:03,586 : INFO : test_e2e : password = heyyahello
+2021-08-24 13:14:10,918 : INFO : test_e2e : Succcessfully sign in with email = hereitsmetry2@gmail.com and password = heyyahello
+2021-08-24 13:14:13,920 : INFO : test_e2e : Enter the address
+2021-08-24 13:14:17,065 : INFO : test_e2e : Successfully add new address
+2021-08-24 13:14:20,076 : INFO : test_e2e : ID Address : 10106
+2021-08-24 13:14:23,809 : INFO : test_e2e : Successfully add new address
+2021-08-24 13:14:26,819 : INFO : test_e2e : ID Address : 10107
+2021-08-24 13:14:30,356 : INFO : test_e2e : Successfully add new address
+2021-08-24 13:14:33,373 : INFO : test_e2e : ID Address : 10108
+2021-08-24 13:14:33,839 : INFO : test_e2e : SHOW ADDRESS ID 10106
+2021-08-24 13:14:36,135 : INFO : test_e2e : SHOW ADDRESS ID 10107
+2021-08-24 13:14:38,471 : INFO : test_e2e : SHOW ADDRESS ID 10108
+2021-08-24 13:14:42,750 : INFO : test_e2e : DELETED ADDRESSS ID 10106
+2021-08-24 13:14:45,742 : INFO : test_e2e : DELETED ADDRESSS ID 10107
+2021-08-24 13:14:48,807 : INFO : test_e2e : DELETED ADDRESSS ID 10108
+2021-08-24 13:14:50,853 : INFO : test_e2e : SIGN OUT FROM email = hereitsmetry2@gmail.com and password = heyyahello
